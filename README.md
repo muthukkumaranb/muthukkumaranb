@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Your%20Name&fontSize=48&fontColor=C9A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muthukkumaran%20B&fontSize=48&fontColor=C9A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Web%20App%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/muthukkumaranb">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7CD8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+Products;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7CD8&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend+Developer;Web+App+Developer;Building+Full-Stack+%26+AI-Integrated+Apps;Open+to+Software+%2F+Frontend+Developer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-Your%20City,%20Country-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6A0DAD?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Location-India-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
 
 <br/><br/>
 
-<a href="https://https://muthukkumaranb.github.io/portfolio/.com"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
@@ -33,17 +32,18 @@
 ## 🪐 About Me
 
 ```yaml
-name: "Your Name"
-role: "Software Engineer / AI-ML Engineer / Full Stack Developer"
-focus:
-  - Designing scalable backend systems and clean, production-ready APIs
-  - Building AI/ML-driven products from research to deployment
-  - Crafting performant, accessible full-stack web applications
-  - Product engineering mindset — shipping with user impact in mind
+name: "Muthukkumaran B"
+role: "Software Developer / Backend Developer / Web App Developer"
+summary: >
+  Second-year Information Technology student with hands-on experience in
+  Java, Python, C++, and Data Structures & Algorithms, backed by proven
+  training experience as a Technical Trainer Intern. Proficient in web
+  app development with strong problem-solving skills (50+ problems
+  solved on LeetCode and HackerRank).
 currently_open_to:
-  - Full-time Software Engineering roles
-  - AI/ML Engineering opportunities
-  - Freelance & collaborative open-source projects
+  - Software Developer roles
+  - Frontend Developer roles
+  - Opportunities to apply algorithmic knowledge to scalable software projects
 ```
 
 <br/>
@@ -56,25 +56,25 @@ currently_open_to:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python&theme=dark" />
 
 <br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
 
 <br/><br/>
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,sqlite,py&theme=dark" />
 
 <br/><br/>
 
-**Cloud, DevOps & Tooling**
+**Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -82,18 +82,16 @@ currently_open_to:
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI / ML & Applied Tech
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, scikit-learn |
-| Deep Learning | ⭐⭐⭐⭐☆ | CNNs, RNNs/LSTMs, Transformers with PyTorch & TensorFlow |
-| NLP | ⭐⭐⭐⭐☆ | Text classification, embeddings, LLM fine-tuning & prompting |
-| Computer Vision | ⭐⭐⭐☆☆ | Image classification, object detection, OpenCV pipelines |
-| MLOps | ⭐⭐⭐☆☆ | Model serving, experiment tracking, CI/CD for ML pipelines |
-| Generative AI | ⭐⭐⭐⭐☆ | RAG systems, agentic workflows, LLM API integration |
+| Computer Vision | ⭐⭐⭐☆☆ | Real-time hand tracking & gesture recognition with MediaPipe and OpenCV |
+| Local LLM Integration | ⭐⭐⭐☆☆ | Integrated a local LLM via Ollama to power a voice-assistant feature |
+| Data Structures & Algorithms | ⭐⭐⭐⭐☆ | 50+ problems solved across arrays, linked lists, trees, graphs, DP, sorting |
+| REST APIs & Backend Logic | ⭐⭐⭐⭐☆ | CRUD operations, Django models, dynamic routing, authentication |
 
 </div>
 
@@ -104,59 +102,57 @@ currently_open_to:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔮 Project One — AI-Powered Platform</b></summary>
+<summary><b>🔮 Mini ERP System</b></summary>
 <br/>
 
-Brief professional description of what the project does, the problem it solves, and the impact it had for its users or organization.
+*Django · HTMX · Alpine.js · Tailwind CSS · SQLite · Ollama (LLM)* — June 2026
 
 | Category | Details |
 |---|---|
-| **Stack** | React, Node.js, PostgreSQL, Docker |
-| **Scale** | 10K+ active users |
-| **Performance** | Sub-200ms average API response time |
-| **Security** | JWT auth, rate limiting, input sanitization |
-| **Impact** | Reduced manual processing time by 40% |
-| **Repository** | [View Repo](https://github.com/muthukkumaranb/project-one) |
+| **Stack** | Django, HTMX, Alpine.js, Tailwind CSS, SQLite, Ollama (LLM), Celery |
+| **Scope** | 14 business domains — sales, purchase, inventory, manufacturing, procurement, delivery, foreign trade, and blockchain-based supply chain tracking |
+| **Interface** | Reactive, AJAX-driven UI built with HTMX + Alpine.js, avoiding heavy JS frameworks |
+| **AI Feature** | Local LLM (via Ollama) powering a voice assistant |
+| **Engineering** | Audit logging, real-time dashboards, Celery-based background task processing |
+| **Repository** | [View Repo](https://github.com/muthukkumaranb) |
 
-This project involved architecting a full-stack solution with a focus on scalability and maintainability, applying clean engineering principles across the API, data layer, and deployment pipeline.
+A full-stack, modular ERP web application built end-to-end with Git-based version control, branching strategies, and collaborative commit workflows.
 
 </details>
 
 <details>
-<summary><b>⚡ Project Two — Full Stack Application</b></summary>
+<summary><b>⚡ Platter to Purpose</b></summary>
 <br/>
 
-Brief professional description of what the project does, the problem it solves, and the impact it had for its users or organization.
+*HTML5 · CSS3 · JavaScript · Python · Django · Git · GitHub* — February 2026
 
 | Category | Details |
 |---|---|
-| **Stack** | Next.js, FastAPI, MongoDB, AWS |
-| **Scale** | Deployed across 3 environments |
-| **Performance** | 99.9% uptime |
-| **Security** | OAuth2, role-based access control |
-| **Impact** | Streamlined workflow for 500+ daily operations |
-| **Repository** | [View Repo](https://github.com/muthukkumaranb/project-two) |
+| **Stack** | Python, Django, HTML5, CSS3, JavaScript |
+| **Backend** | User authentication, database models, dynamic routing, CRUD operations |
+| **Frontend** | Responsive, mobile-first UI with cross-browser compatibility and accessibility best practices |
+| **Purpose** | Community platform connecting users with social resources, support services, and volunteer opportunities |
+| **Repository** | [View Repo](https://github.com/muthukkumaranb) |
 
-Detailed explanation of the engineering decisions, trade-offs, and technical challenges solved during development.
+A full-stack community web platform designed to make social resources and volunteer opportunities easy to discover and access.
 
 </details>
 
 <details>
-<summary><b>🛰️ Project Three — Machine Learning System</b></summary>
+<summary><b>🛰️ Air Canva — Virtual Drawing Application</b></summary>
 <br/>
 
-Brief professional description of what the project does, the problem it solves, and the impact it had for its users or organization.
+*Python · MediaPipe · OpenCV · NumPy* — December 2025
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, PyTorch, FastAPI, Redis |
-| **Scale** | Trained on 1M+ data points |
-| **Performance** | 94% model accuracy |
-| **Security** | Encrypted data pipeline, access-controlled endpoints |
-| **Impact** | Improved prediction accuracy by 25% over baseline |
-| **Repository** | [View Repo](https://github.com/muthukkumaranb/project-three) |
+| **Stack** | Python, MediaPipe, OpenCV, NumPy |
+| **Core Feature** | Gesture-controlled virtual drawing using real-time hand movements via webcam |
+| **Tracking** | Real-time hand tracking and finger detection for drawing, erasing, and colour selection |
+| **Processing** | OpenCV for video capture/frame processing; NumPy for efficient pixel manipulation |
+| **Repository** | [View Repo](https://github.com/muthukkumaranb) |
 
-Overview of the model architecture, data pipeline, and deployment strategy used to bring this project to production.
+A gesture-controlled drawing app turning webcam-tracked hand movements into a digital canvas, with real-time responsiveness as the core engineering challenge.
 
 </details>
 
@@ -166,29 +162,26 @@ Overview of the model architecture, data pipeline, and deployment strategy used 
 
 ## 💼 Experience
 
-### **Software Engineer** · Company Name
-`Month Year — Present`
+### **Technical Trainer Intern** · CSC Computer Education, Erode
+`Apr 2026 — May 2026`
 
-Professional description of your role and core responsibilities within the organization.
+- Trained students in Python, C, and C++ programming languages through structured technical sessions and hands-on practical learning activities
+- Assisted participants in understanding core programming concepts, strengthening their problem-solving and coding fundamentals
+- Demonstrated strong communication, technical proficiency, and leadership skills, earning commendable performance recognition from the organization
 
-- Designed and implemented scalable backend services handling production traffic
-- Collaborated with cross-functional teams to ship features end-to-end
-- Improved system performance and reduced technical debt across key modules
-
-`React` `Node.js` `PostgreSQL` `AWS` `Docker`
+`Python` `C` `C++` `Technical Training` `Communication`
 
 <br/>
 
-### **Software Engineering Intern** · Company Name
-`Month Year — Month Year`
+---
 
-Professional description of your role and core responsibilities within the organization.
+## 🎓 Education
 
-- Built internal tooling that improved team productivity
-- Contributed to code reviews and testing practices
-- Worked directly with senior engineers on production systems
+**Bachelor of Technology — Information Technology** · 2025 – 2029
+<br/>
+Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
-`Python` `Django` `MySQL` `Git`
+**Relevant Coursework:** Data Structures and Algorithms, OOP with C++, Discrete Mathematics, Computer Organization and Architecture, Operating Systems
 
 <br/>
 
@@ -200,42 +193,9 @@ Professional description of your role and core responsibilities within the organ
 
 | Recognition | Details |
 |---|---|
-| 🥇 Hackathon Winner | 1st place at [Event Name], Year |
-| 🎓 Academic Excellence | Top of cohort, [Program Name] |
-| 📜 Open Source Contributor | Merged PRs to [Project Name] |
-| 🌟 Recognition Award | [Award Name] at [Company/Event] |
-
-</div>
-
-<br/>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-**AWS**
-<br/>
-<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<br/><br/>
-
-**Oracle**
-<br/>
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<br/><br/>
-
-**NPTEL**
-<br/>
-<img src="https://img.shields.io/badge/NPTEL%20Certified-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-<br/><br/>
-
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+| 🧩 Problem Solving | 50+ DSA problems solved on LeetCode & HackerRank (arrays, linked lists, trees, graphs, DP, sorting) |
+| 🎤 Leadership | Student Hackathon Coordinator — B.Tech Information Technology, Sri Krishna College of Engineering and Technology |
+| 🏫 Academic Performance | SGPA: 9.05 / 10.0 |
 
 </div>
 
@@ -248,9 +208,7 @@ Professional description of your role and core responsibilities within the organ
 <div align="center">
 
 <a href="https://leetcode.com/muthukkumaranb"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://geeksforgeeks.org/user/muthukkumaranb"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://hackerrank.com/muthukkumaranb"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://codechef.com/users/muthukkumaranb"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -315,17 +273,17 @@ Professional description of your role and core responsibilities within the organ
 
 ```yaml
 learning:
-  - Advanced distributed systems design
-  - Large Language Model fine-tuning and evaluation
+  - Advanced Data Structures & Algorithms
+  - Deeper backend architecture and REST API design patterns
 building:
-  - A production-grade AI-powered SaaS product
-  - Open-source contributions to developer tooling
+  - Full-stack, AI-integrated web applications (Django + HTMX/Alpine.js)
+  - Personal projects combining computer vision and practical tooling
 exploring:
-  - Agentic AI workflows and orchestration frameworks
-  - Edge computing and low-latency architectures
+  - Local LLM integration for real-world applications
+  - Frontend engineering with modern reactive patterns
 open_to:
-  - Full-time Software Engineering / AI-ML roles
-  - Technical collaborations and open-source projects
+  - Software Developer roles
+  - Frontend Developer roles
 ```
 
 <br/>
@@ -339,7 +297,6 @@ open_to:
 <a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://https://muthukkumaranb.github.io/portfolio/.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
