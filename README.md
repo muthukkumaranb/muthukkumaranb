@@ -114,7 +114,7 @@ currently_open_to:
 | **Interface** | Reactive, AJAX-driven UI built with HTMX + Alpine.js, avoiding heavy JS frameworks |
 | **AI Feature** | Local LLM (via Ollama) powering a voice assistant |
 | **Engineering** | Audit logging, real-time dashboards, Celery-based background task processing |
-| **Repository** | [View Repo](https://github.com/muthukkumaranb) |
+| **Repository** | [View Repo](https://github.com/JarshinJS/minierp.git) |
 
 A full-stack, modular ERP web application built end-to-end with Git-based version control, branching strategies, and collaborative commit workflows.
 
@@ -132,7 +132,7 @@ A full-stack, modular ERP web application built end-to-end with Git-based versio
 | **Backend** | User authentication, database models, dynamic routing, CRUD operations |
 | **Frontend** | Responsive, mobile-first UI with cross-browser compatibility and accessibility best practices |
 | **Purpose** | Community platform connecting users with social resources, support services, and volunteer opportunities |
-| **Repository** | [View Repo](https://github.com/muthukkumaranb) |
+| **Repository** | [View Repo](https://github.com/JarshinJS/platter_to_purpose.git) |
 
 A full-stack community web platform designed to make social resources and volunteer opportunities easy to discover and access.
 
@@ -150,7 +150,7 @@ A full-stack community web platform designed to make social resources and volunt
 | **Core Feature** | Gesture-controlled virtual drawing using real-time hand movements via webcam |
 | **Tracking** | Real-time hand tracking and finger detection for drawing, erasing, and colour selection |
 | **Processing** | OpenCV for video capture/frame processing; NumPy for efficient pixel manipulation |
-| **Repository** | [View Repo](https://github.com/muthukkumaranb) |
+| **Repository** | [View Repo](https://github.com/muthukkumaranb/aircanva.git) |
 
 A gesture-controlled drawing app turning webcam-tracked hand movements into a digital canvas, with real-time responsiveness as the core engineering challenge.
 
