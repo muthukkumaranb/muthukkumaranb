@@ -207,8 +207,9 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
 <div align="center">
 
-<a href="https://leetcode.com/muthukkumaranb"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://hackerrank.com/muthukkumaranb"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/muthukkumaranb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a><a href="https://www.hackerrank.com/profile/muthukkumaranb" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
