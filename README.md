@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Muthukkumaran%20B&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Web%20App%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=220&section=header&text=Muthukkumaran%20B&fontSize=48&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/muthukkumaranb">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend+Developer;Web+App+Developer;Building+Full-Stack+%26+AI-Integrated+Apps;Open+to+Software+%2F+Frontend+Developer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend+Developer;AI+Engineer+%7C+Web+App+Developer;Building+Full-Stack+%26+AI-Integrated+Apps;Open+to+Software+%2F+AI+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2"/></a>
+<a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&labelColor=0D1117"/></a>
 
 <br/><br/>
 
@@ -33,16 +33,17 @@
 
 ```yaml
 name: "Muthukkumaran B"
-role: "Software Developer / Backend Developer / Web App Developer"
-summary: >
+role: "Software Developer / Backend Developer / AI Engineer / Web App Developer"
+summary: 
   Second-year Information Technology student with hands-on experience in
   Java, Python, C++, and Data Structures & Algorithms, backed by proven
   training experience as a Technical Trainer Intern. Proficient in web
   app development with strong problem-solving skills (50+ problems
-  solved on LeetCode and HackerRank).
+  solved on LeetCode).
 currently_open_to:
   - Software Developer roles
   - Frontend Developer roles
+  - AI Engineer roles
   - Opportunities to apply algorithmic knowledge to scalable software projects
 ```
 
@@ -187,59 +188,11 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🧩 Problem Solving | 50+ DSA problems solved on LeetCode & HackerRank (arrays, linked lists, trees, graphs, DP, sorting) |
-| 🎤 Leadership | Student Hackathon Coordinator — B.Tech Information Technology, Sri Krishna College of Engineering and Technology |
-| 🏫 Academic Performance | SGPA: 9.05 / 10.0 |
-
-</div>
-
-<br/>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/muthukkumaranb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/profile/muthukkumaranb" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muthukkumaranb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=06B6D4&text_color=F0F6FC" width="49%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=muthukkumaranb&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=06B6D4&fire=22C55E&currStreakLabelColor=58A6FF" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthukkumaranb&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" width="50%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muthukkumaranb&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<a href="https://leetcode.com/u/muthukumaranb/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
@@ -259,24 +212,13 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muthukkumaranb/muthukkumaranb/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
 learning:
   - Advanced Data Structures & Algorithms
   - Deeper backend architecture and REST API design patterns
+  - Machine Learning
 building:
   - Full-stack, AI-integrated web applications (Django + HTMX/Alpine.js)
   - Personal projects combining computer vision and practical tooling
@@ -286,6 +228,7 @@ exploring:
 open_to:
   - Software Developer roles
   - Frontend Developer roles
+  - AI Engineer roles
 ```
 
 <br/>
@@ -297,7 +240,7 @@ open_to:
 <div align="center">
 
 <a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2"/></a>
 <a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
@@ -310,6 +253,6 @@ open_to:
 
 *"Code is the closest thing we have to magic — write it with intention."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer"/>
 
 </div>
