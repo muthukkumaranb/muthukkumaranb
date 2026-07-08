@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muthukkumaran%20B&fontSize=48&fontColor=C9A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Web%20App%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Muthukkumaran%20B&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Web%20App%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/muthukkumaranb">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7CD8&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend+Developer;Web+App+Developer;Building+Full-Stack+%26+AI-Integrated+Apps;Open+to+Software+%2F+Frontend+Developer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend+Developer;Web+App+Developer;Building+Full-Stack+%26+AI-Integrated+Apps;Open+to+Software+%2F+Frontend+Developer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6A0DAD?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-India-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-58A6FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Location-India-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muthukkumaranb&style=flat-square&color=9d7cd8&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/muthukkumaranb?style=flat-square&color=9d7cd8&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/muthukkumaranb?style=flat-square&color=9d7cd8&labelColor=1a1a2e&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=muthukkumaranb&style=flat-square&color=58A6FF&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/muthukkumaranb?style=flat-square&color=58A6FF&labelColor=0D1117&label=Followers"/>
+<img src="https://img.shields.io/github/stars/muthukkumaranb?style=flat-square&color=58A6FF&labelColor=0D1117&label=Stars"/>
 
 </div>
 
@@ -207,7 +207,8 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
 <div align="center">
 
-<a href="https://leetcode.com/muthukkumaranb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a><a href="https://www.hackerrank.com/profile/muthukkumaranb" target="_blank" rel="noopener noreferrer">
+<a href="https://leetcode.com/muthukkumaranb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/muthukkumaranb" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -221,12 +222,12 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muthukkumaranb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d7cd8&icon_color=7f5af0&text_color=c9c9c9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muthukkumaranb&theme=radical&hide_border=true&background=0d1117&stroke=9d7cd8&ring=7f5af0&fire=9d7cd8&currStreakLabel=9d7cd8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muthukkumaranb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=06B6D4&text_color=F0F6FC" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=muthukkumaranb&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=06B6D4&fire=22C55E&currStreakLabelColor=58A6FF" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthukkumaranb&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=c9c9c9" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthukkumaranb&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" width="50%"/>
 
 </div>
 
@@ -238,7 +239,7 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muthukkumaranb&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muthukkumaranb&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -250,7 +251,7 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muthukkumaranb&theme=redical&hide_border=true&bg_color=0d1117&color=9d7cd8&line=7f5af0&point=c9c9c9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muthukkumaranb&hide_border=true&bg_color=0D1117&color=58A6FF&line=06B6D4&point=F0F6FC&area_color=161B22"/>
 
 </div>
 
@@ -309,6 +310,6 @@ open_to:
 
 *"Code is the closest thing we have to magic — write it with intention."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
