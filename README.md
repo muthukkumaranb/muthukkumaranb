@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=220&section=header&text=Muthukkumaran%20B&fontSize=48&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=220&section=header&text=Muthukkumaran%20B&fontSize=48&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Backend%20Developer%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/muthukkumaranb">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend+Developer;AI+Engineer+%7C+Web+App+Developer;Building+Full-Stack+%26+AI-Integrated+Apps;Open+to+Software+%2F+AI+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Development+Engineer;Backend+%2F+Full-Stack+Developer;Aspiring+AI+Engineer;Building+Full-Stack+%26+AI-Integrated+Apps;Open+to+SDE+%2F+Backend+%2F+AI+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,18 +33,19 @@
 
 ```yaml
 name: "Muthukkumaran B"
-role: "Software Developer / Backend Developer / AI Engineer / Web App Developer"
+role: "Software Development Engineer / Backend Developer / Full-Stack Developer / Aspiring AI Engineer"
 summary: 
-  Second-year Information Technology student with hands-on experience in
-  Java, Python, C++, and Data Structures & Algorithms, backed by proven
-  training experience as a Technical Trainer Intern. Proficient in web
-  app development with strong problem-solving skills (50+ problems
-  solved on LeetCode).
+  Second-year Information Technology student with strong Data Structures &
+  Algorithms fundamentals (LeetCode, HackerRank) and hands-on backend/
+  full-stack development experience in Python/Django. Built a full-stack
+  modular ERP system spanning 14 business domains, including LLM and
+  computer-vision integrations, plus hands-on teaching experience as a
+  Technical Trainer Intern.
 currently_open_to:
-  - Software Developer roles
-  - Frontend Developer roles
-  - AI Engineer roles
-  - Opportunities to apply algorithmic knowledge to scalable software projects
+  - Software Development Engineer (SDE) roles
+  - Backend Developer roles
+  - Full-Stack Developer roles
+  - AI Engineering roles (aspiring — building toward this)
 ```
 
 <br/>
@@ -83,18 +84,16 @@ currently_open_to:
 
 ---
 
-## 🤖 AI / ML & Applied Tech
+## 🤖 Applied AI / CV Work
 
-<div align="center">
+> Note: this reflects hands-on integration of existing AI/CV tools in real projects — not model training or fine-tuning. I'm actively building toward deeper ML/AI engineering skills.
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Computer Vision | ⭐⭐⭐☆☆ | Real-time hand tracking & gesture recognition with MediaPipe and OpenCV |
-| Local LLM Integration | ⭐⭐⭐☆☆ | Integrated a local LLM via Ollama to power a voice-assistant feature |
-| Data Structures & Algorithms | ⭐⭐⭐⭐☆ | 50+ problems solved across arrays, linked lists, trees, graphs, DP, sorting |
-| REST APIs & Backend Logic | ⭐⭐⭐⭐☆ | CRUD operations, Django models, dynamic routing, authentication |
-
-</div>
+| Area | What I've Built |
+|---|---|
+| Computer Vision | Real-time hand tracking and gesture recognition using MediaPipe and OpenCV (Air Canva) |
+| Local LLM Integration | Integrated a local LLM via Ollama to power an in-app voice assistant (Mini ERP System) |
+| Data Structures & Algorithms | Practicing regularly on LeetCode and HackerRank — arrays, linked lists, trees, graphs, DP, sorting |
+| REST APIs & Backend Logic | CRUD operations, Django models, dynamic routing, authentication |
 
 <br/>
 
@@ -106,16 +105,16 @@ currently_open_to:
 <summary><b>🔮 Mini ERP System</b></summary>
 <br/>
 
-*Django · HTMX · Alpine.js · Tailwind CSS · SQLite · Ollama (LLM)* — June 2026
+*Django · HTMX · Alpine.js · Tailwind CSS · SQLite · Celery · Ollama (LLM)* — June 2026
 
 | Category | Details |
 |---|---|
-| **Stack** | Django, HTMX, Alpine.js, Tailwind CSS, SQLite, Ollama (LLM), Celery |
+| **Stack** | Django, HTMX, Alpine.js, Tailwind CSS, SQLite, Celery, Ollama (LLM) |
 | **Scope** | 14 business domains — sales, purchase, inventory, manufacturing, procurement, delivery, foreign trade, and blockchain-based supply chain tracking |
 | **Interface** | Reactive, AJAX-driven UI built with HTMX + Alpine.js, avoiding heavy JS frameworks |
-| **AI Feature** | Local LLM (via Ollama) powering a voice assistant |
+| **AI Feature** | Local LLM (via Ollama) powering an in-app voice assistant |
 | **Engineering** | Audit logging, real-time dashboards, Celery-based background task processing |
-| **Repository** | [View Repo](https://github.com/JarshinJS/minierp.git) |
+| **Repository** | [View Repo](https://github.com/muthukkumaranb/minierp) |
 
 A full-stack, modular ERP web application built end-to-end with Git-based version control, branching strategies, and collaborative commit workflows.
 
@@ -133,7 +132,7 @@ A full-stack, modular ERP web application built end-to-end with Git-based versio
 | **Backend** | User authentication, database models, dynamic routing, CRUD operations |
 | **Frontend** | Responsive, mobile-first UI with cross-browser compatibility and accessibility best practices |
 | **Purpose** | Community platform connecting users with social resources, support services, and volunteer opportunities |
-| **Repository** | [View Repo](https://github.com/JarshinJS/platter_to_purpose.git) |
+| **Repository** | [View Repo](https://github.com/muthukkumaranb/platter_to_purpose) |
 
 A full-stack community web platform designed to make social resources and volunteer opportunities easy to discover and access.
 
@@ -151,7 +150,7 @@ A full-stack community web platform designed to make social resources and volunt
 | **Core Feature** | Gesture-controlled virtual drawing using real-time hand movements via webcam |
 | **Tracking** | Real-time hand tracking and finger detection for drawing, erasing, and colour selection |
 | **Processing** | OpenCV for video capture/frame processing; NumPy for efficient pixel manipulation |
-| **Repository** | [View Repo](https://github.com/muthukkumaranb/aircanva.git) |
+| **Repository** | [View Repo](https://github.com/muthukkumaranb/aircanva) |
 
 A gesture-controlled drawing app turning webcam-tracked hand movements into a digital canvas, with real-time responsiveness as the core engineering challenge.
 
@@ -166,11 +165,35 @@ A gesture-controlled drawing app turning webcam-tracked hand movements into a di
 ### **Technical Trainer Intern** · CSC Computer Education, Erode
 `Apr 2026 — May 2026`
 
-- Trained students in Python, C, and C++ programming languages through structured technical sessions and hands-on practical learning activities
-- Assisted participants in understanding core programming concepts, strengthening their problem-solving and coding fundamentals
-- Demonstrated strong communication, technical proficiency, and leadership skills, earning commendable performance recognition from the organization
+- Trained 50+ students in Python, C, and C++ through structured technical sessions and hands-on lab exercises
+- Designed practice problem sets and doubt-clearing sessions that strengthened students' problem-solving fundamentals and coding accuracy
+- Received a certificate of excellence from the organization for communication and technical delivery
 
 `Python` `C` `C++` `Technical Training` `Communication`
+
+<br/>
+
+---
+
+## 🏆 Achievements & Hackathons
+
+- Solved Data Structures and Algorithms problems on LeetCode, HackerRank, and other competitive platforms, covering arrays, linked lists, trees, graphs, dynamic programming, and sorting
+- Competed in 10+ hackathons; reached the final round at the **Odoo x KAHE Coimbatore Hackathon**, the **Hydro Hackathon** (Department of Ocean Engineering, IIT Madras), and the **Samhita Hackathon** (IT Department, Madras Institute of Technology)
+- Student Hackathon Coordinator, B.Tech Information Technology — Sri Krishna College of Engineering and Technology
+
+<div align="center">
+
+| Hackathon | Organizer | Result |
+|---|---|---|
+| Odoo x KAHE Coimbatore Hackathon | Odoo & Karpagam Institutions | 🏅 Finalist |
+| Samhita Hackathon | IT Dept, Madras Institute of Technology | 🏅 Finalist |
+| Hydro Hackathon | Dept. of Ocean Engineering, IIT Madras | 🏅 Finalist |
+| Sparkathon | EEE Department, CIT | Participant |
+| UIDAI Data Hackathon | UIDAI | Participant |
+| Road Safety Hackathon | IIT Madras | Participant |
+| Socialis Impulsum *(non-hackathon event)* | IIT Madras | Participant |
+
+</div>
 
 <br/>
 
@@ -218,7 +241,7 @@ Sri Krishna College of Engineering and Technology, India · SGPA: 9.05 / 10.0
 learning:
   - Advanced Data Structures & Algorithms
   - Deeper backend architecture and REST API design patterns
-  - Machine Learning
+  - Machine Learning fundamentals
 building:
   - Full-stack, AI-integrated web applications (Django + HTMX/Alpine.js)
   - Personal projects combining computer vision and practical tooling
@@ -226,9 +249,10 @@ exploring:
   - Local LLM integration for real-world applications
   - Frontend engineering with modern reactive patterns
 open_to:
-  - Software Developer roles
-  - Frontend Developer roles
-  - AI Engineer roles
+  - Software Development Engineer (SDE) roles
+  - Backend Developer roles
+  - Full-Stack Developer roles
+  - AI Engineering roles (aspiring)
 ```
 
 <br/>
