@@ -6,33 +6,23 @@
 
 <br/>
 
-<a href="https://muthukkumaranb.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Gmail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=muthukkumaranb&style=for-the-badge&color=161B22&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/muthukkumaranb?style=for-the-badge&color=161B22&labelColor=0D1117&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/muthukkumaranb?style=for-the-badge&color=161B22&labelColor=0D1117&label=STARS"/>
+[Portfolio](https://muthukkumaranb.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/muthukkumaranb) · [Gmail](mailto:mailtomuthukkumaranb@gmail.com) · [GitHub](https://github.com/muthukkumaranb)
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## About Me
 
+I'm a second-year Information Technology student at Sri Krishna College of Engineering and Technology, building toward a career as a Software Development Engineer and AI Engineer. I have hands-on backend and full-stack development experience in Python/Django, strong Data Structures & Algorithms fundamentals, and applied AI/CV work — including local LLM integration and real-time computer vision.
 
-I'm a second-year **Information Technology** student at Sri Krishna College of Engineering and Technology, building toward a career as a **Software Development Engineer and AI Engineer**. I have hands-on backend and full-stack development experience in **Python/Django**, strong **Data Structures & Algorithms** fundamentals, and applied AI/CV work — including local LLM integration and real-time computer vision.
-
-My flagship project is a full-stack **modular ERP system spanning 14 business domains**, and I've competed in **10+ hackathons**, reaching the finals in three.
+My flagship project is a full-stack modular ERP system spanning 14 business domains, and I've competed in 10+ hackathons, reaching the finals in three.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Currently open to**
+**Currently open to**
 - Software Development Engineer (SDE) roles
 - Backend Developer roles
 - Full-Stack Developer roles
@@ -41,11 +31,11 @@ My flagship project is a full-stack **modular ERP system spanning 14 business do
 </td>
 <td width="50%" valign="top">
 
-**📌 Quick facts**
-- 🎓 B.Tech IT · SGPA 9.05/10.0
-- 🏅 3x Hackathon Finalist
-- 🧠 50+ DSA problems solved
-- 🛠️ Shipped 3 full-stack projects
+**Quick facts**
+- B.Tech IT · SGPA 9.05/10.0
+- 3x Hackathon Finalist
+- 50+ DSA problems solved
+- Shipped 3 full-stack projects
 
 </td>
 </tr>
@@ -53,60 +43,34 @@ My flagship project is a full-stack **modular ERP system spanning 14 business do
 
 <br/>
 
-## 🧠 Tech Stack
+## Tech Stack
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-
-**Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python&theme=dark"/>
-
-</td>
-<td align="center" width="25%">
-
-**Frontend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark"/>
-
-</td>
-<td align="center" width="25%">
-
-**Backend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=django,sqlite,py&theme=dark"/>
-
-</td>
-<td align="center" width="25%">
-
-**Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-</td>
-</tr>
-</table>
+| Category | Stack |
+|---|---|
+| Languages | Java, C++, C, Python |
+| Frontend | HTML, CSS, JavaScript, Tailwind CSS |
+| Backend | Django, SQLite, Python |
+| Tools | Git, GitHub, VS Code |
 
 <br/>
 
-## 🤖 Applied AI & Computer Vision
+## Applied AI & Computer Vision
 
 *Hands-on integration of AI/CV tooling in shipped projects — actively building toward deeper ML/AI engineering skills.*
 
 | | |
 |---|---|
-| 🎥 **Computer Vision** | Real-time hand tracking & gesture recognition with MediaPipe and OpenCV — *Air Canva* |
-| 🧩 **Local LLM Integration** | Ollama-powered in-app voice assistant — *Mini ERP System* |
-| 🧮 **Data Structures & Algorithms** | Arrays, linked lists, trees, graphs, DP, sorting — practiced on LeetCode & HackerRank |
-| ⚙️ **Backend & APIs** | CRUD operations, Django models, dynamic routing, authentication |
+| Computer Vision | Real-time hand tracking & gesture recognition with MediaPipe and OpenCV — *Air Canva* |
+| Local LLM Integration | Ollama-powered in-app voice assistant — *Mini ERP System* |
+| Data Structures & Algorithms | Arrays, linked lists, trees, graphs, DP, sorting — practiced on LeetCode & HackerRank |
+| Backend & APIs | CRUD operations, Django models, dynamic routing, authentication |
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><b>🔮 Mini ERP System</b> — <i>Django · HTMX · Alpine.js · Tailwind CSS · SQLite · Celery · Ollama</i></summary>
+<summary><b>Mini ERP System</b> — <i>Django · HTMX · Alpine.js · Tailwind CSS · SQLite · Celery · Ollama</i></summary>
 <br/>
 
 > A full-stack, modular ERP application spanning 14 business domains — built end-to-end with Git branching strategies and collaborative commit workflows. *June 2026*
@@ -122,7 +86,7 @@ My flagship project is a full-stack **modular ERP system spanning 14 business do
 </details>
 
 <details>
-<summary><b>⚡ Platter to Purpose</b> — <i>Python · Django · HTML5 · CSS3 · JavaScript</i></summary>
+<summary><b>Platter to Purpose</b> — <i>Python · Django · HTML5 · CSS3 · JavaScript</i></summary>
 <br/>
 
 > A full-stack community platform connecting users to social resources, support services, and volunteer opportunities. *February 2026*
@@ -136,7 +100,7 @@ My flagship project is a full-stack **modular ERP system spanning 14 business do
 </details>
 
 <details>
-<summary><b>🛰️ Air Canva</b> — <i>Python · MediaPipe · OpenCV · NumPy</i></summary>
+<summary><b>Air Canva</b> — <i>Python · MediaPipe · OpenCV · NumPy</i></summary>
 <br/>
 
 > A gesture-controlled virtual drawing app that turns webcam-tracked hand movement into a digital canvas. *December 2025*
@@ -152,7 +116,7 @@ My flagship project is a full-stack **modular ERP system spanning 14 business do
 
 <br/>
 
-## 💼 Experience
+## Experience
 
 **Technical Trainer Intern** · CSC Computer Education, Erode
 <br/>
@@ -162,21 +126,19 @@ My flagship project is a full-stack **modular ERP system spanning 14 business do
 - Designed practice problem sets and doubt-clearing sessions that strengthened students' problem-solving fundamentals
 - Received a certificate of excellence for communication and technical delivery
 
-<img src="https://img.shields.io/badge/Python-58A6FF?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/C-58A6FF?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/C%2B%2B-58A6FF?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Technical%20Training-06B6D4?style=flat-square&labelColor=0D1117"/>
-
 <br/>
 
-## 🏆 Achievements & Hackathons
+## Achievements & Hackathons
 
-Competed in **10+ hackathons**, reaching the finals at three national-level events, and served as Student Hackathon Coordinator for B.Tech IT at Sri Krishna College of Engineering and Technology.
+Competed in 10+ hackathons, reaching the finals at three national-level events, and served as Student Hackathon Coordinator for B.Tech IT at Sri Krishna College of Engineering and Technology.
 
 <div align="center">
 
 | Hackathon | Organizer | Result |
 |---|---|---|
-| Odoo x KAHE Coimbatore Hackathon | Odoo & Karpagam Institutions | 🥇 Finalist |
-| Samhita Hackathon | IT Dept, Madras Institute of Technology | 🥇 Finalist |
-| Hydro Hackathon | Dept. of Ocean Engineering, IIT Madras | 🥇 Finalist |
+| Odoo x KAHE Coimbatore Hackathon | Odoo & Karpagam Institutions | Finalist |
+| Samhita Hackathon | IT Dept, Madras Institute of Technology | Finalist |
+| Hydro Hackathon | Dept. of Ocean Engineering, IIT Madras | Finalist |
 | Sparkathon | EEE Department, CIT | Participant |
 | UIDAI Data Hackathon | UIDAI | Participant |
 | Road Safety Hackathon | IIT Madras | Participant |
@@ -186,7 +148,7 @@ Competed in **10+ hackathons**, reaching the finals at three national-level even
 
 <br/>
 
-## 🎓 Education
+## Education
 
 **Bachelor of Technology — Information Technology**
 <br/>
@@ -196,15 +158,17 @@ Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGP
 
 <br/>
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
-<a href="https://leetcode.com/u/muthukumaranb/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+[LeetCode](https://leetcode.com/u/muthukumaranb/)
+
 </div>
 
 <br/>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muthukkumaranb&hide_border=true&bg_color=0D1117&color=58A6FF&line=06B6D4&point=F0F6FC&area_color=161B22" width="100%"/>
@@ -212,13 +176,13 @@ Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGP
 
 <br/>
 
-## 🎯 Current Focus
+## Current Focus
 
 <table width="100%">
 <tr>
 <td width="25%" valign="top">
 
-**📖 Learning**
+**Learning**
 - Advanced DSA
 - Backend architecture & REST API design
 - Machine Learning fundamentals
@@ -226,21 +190,21 @@ Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGP
 </td>
 <td width="25%" valign="top">
 
-**🔨 Building**
+**Building**
 - Full-stack AI-integrated apps
 - Computer vision side projects
 
 </td>
 <td width="25%" valign="top">
 
-**🔭 Exploring**
+**Exploring**
 - Local LLM integration
 - Modern reactive frontend patterns
 
 </td>
 <td width="25%" valign="top">
 
-**🎯 Open to**
+**Open to**
 - SDE / Backend / Full-Stack
 - AI Engineering *(aspiring)*
 
@@ -250,14 +214,11 @@ Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGP
 
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-<a href="https://muthukkumaranb.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:mailtomuthukkumaranb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/muthukkumaranb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/muthukkumaranb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[Portfolio](https://muthukkumaranb.github.io/portfolio/) · [Gmail](mailto:mailtomuthukkumaranb@gmail.com) · [LinkedIn](https://linkedin.com/in/muthukkumaranb) · [GitHub](https://github.com/muthukkumaranb)
 
 </div>
 
@@ -266,7 +227,5 @@ Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGP
 <div align="center">
 
 *"Code is the closest thing we have to magic — write it with intention."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=110&section=footer" width="100%"/>
 
 </div>
