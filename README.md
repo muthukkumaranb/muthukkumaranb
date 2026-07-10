@@ -152,7 +152,7 @@ Competed in 10+ hackathons, reaching the finals at three national-level events, 
 
 **Bachelor of Technology — Information Technology**
 <br/>
-Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGPA 9.05/10.0
+Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · CGPA 9.05/10.0
 
 <sub>Relevant coursework: Data Structures and Algorithms · OOP with C++ · Discrete Mathematics · Computer Organization and Architecture · Operating Systems</sub>
 
