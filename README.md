@@ -134,7 +134,7 @@ Competed in 10+ hackathons, reaching the finals at three national-level events, 
 
 <div align="center">
 
-| Hackathon | Organizer | Result |
+| Hackathons/Competitions | Organizer | Result |
 |---|---|---|
 | Odoo x KAHE Coimbatore Hackathon | Odoo & Karpagam Institutions | Finalist |
 | Samhita Hackathon | IT Dept, Madras Institute of Technology | Finalist |
@@ -143,6 +143,12 @@ Competed in 10+ hackathons, reaching the finals at three national-level events, 
 | UIDAI Data Hackathon | UIDAI | Participant |
 | Road Safety Hackathon | IIT Madras | Participant |
 | Socialis Impulsum *(non-hackathon event)* | IIT Madras | Participant |
+| Bharatiya Antariksh Hackathon (BAH) | ISRO, powered by Hack2skill | Participant |
+| Samsung Solve for Tomorrow | Samsung India | Participant |
+| Tally CodeBrewers | Tally Solutions | Participant |
+| Snapdragon Multiverse Hackathon | Qualcomm India | Participant |
+| Securities Market TechSprint (SEBI Hackathon) | SEBI, Global Fintech Fest | Participant |
+| Flipkart GRiD 8.0 | Flipkart | Participant |
 
 </div>
 
@@ -152,7 +158,7 @@ Competed in 10+ hackathons, reaching the finals at three national-level events, 
 
 **Bachelor of Technology — Information Technology**
 <br/>
-Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · CGPA 9.05/10.0
+Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGPA 9.05/10.0
 
 <sub>Relevant coursework: Data Structures and Algorithms · OOP with C++ · Discrete Mathematics · Computer Organization and Architecture · Operating Systems</sub>
 
