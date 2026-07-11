@@ -34,7 +34,7 @@ My flagship project is a full-stack modular ERP system spanning 14 business doma
 **Quick facts**
 - B.Tech IT · CGPA 9.05/10.0
 - 3x Hackathon Finalist
-- 50+ DSA problems solved
+- Numerous DSA problems solved
 - Shipped 3 full-stack projects
 
 </td>
