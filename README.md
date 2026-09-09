@@ -33,7 +33,7 @@ My flagship project is a full-stack modular ERP system spanning 14 business doma
 
 **Quick facts**
 - B.Tech IT · CGPA 9.05/10.0
-- 3x Hackathon Finalist
+- 5x Hackathon Finalist
 - Numerous DSA problems solved
 - Shipped 3 full-stack projects
 
@@ -139,7 +139,8 @@ Competed in 10+ hackathons, reaching the finals at three national-level events, 
 | Odoo x KAHE Coimbatore Hackathon | Odoo & Karpagam Institutions | Finalist |
 | Samhita Hackathon | IT Dept, Madras Institute of Technology | Finalist |
 | Hydro Hackathon | Dept. of Ocean Engineering, IIT Madras | Finalist |
-| Sparkathon | EEE Department, CIT | Participant |
+| Sparkathon | EEE Department, CIT | Finalist |
+| CSI ORIGINS| Somputer Society Of India, VIT Chennai | Finalist|
 | UIDAI Data Hackathon | UIDAI | Participant |
 | Road Safety Hackathon | IIT Madras | Participant |
 | Socialis Impulsum *(non-hackathon event)* | IIT Madras | Participant |
@@ -147,7 +148,6 @@ Competed in 10+ hackathons, reaching the finals at three national-level events, 
 | Samsung Solve for Tomorrow | Samsung India | Participant |
 | Tally CodeBrewers | Tally Solutions | Participant |
 | Snapdragon Multiverse Hackathon | Qualcomm India | Participant |
-| Securities Market TechSprint (SEBI Hackathon) | SEBI, Global Fintech Fest | Participant |
 | Flipkart GRiD 8.0 | Flipkart | Participant |
 
 </div>
