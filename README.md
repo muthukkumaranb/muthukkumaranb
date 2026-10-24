@@ -175,15 +175,6 @@ Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGP
 
 <br/>
 
-## Coding Profiles
-
-<div align="center">
-
-[LeetCode](https://leetcode.com/u/muthukumaranb/)
-
-</div>
-
-<br/>
 
 ## Current Focus
 
