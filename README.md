@@ -2,7 +2,7 @@
 
 <img src="./hero-banner.png" width="100%" alt="Muthukkumaran B — Software Development Engineer, Backend Developer, Aspiring AI Engineer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI-integrated+apps;3x+Hackathon+Finalist;Open+to+SDE+%2F+Backend+%2F+AI+roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI-integrated+apps;5x+Hackathon+Finalist;Open+to+SDE+%2F+Backend+%2F+AI+roles" alt="Typing SVG"/>
 
 <br/>
 
@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a second-year Information Technology student at Sri Krishna College of Engineering and Technology, building toward a career as a Software Development Engineer and AI Engineer. I have hands-on backend and full-stack development experience in Python/Django, strong Data Structures & Algorithms fundamentals, and applied AI/CV work — including local LLM integration and real-time computer vision.
+I'm a second-year Information Technology student at Sri Krishna College of Engineering and Technology, building toward a career as a Software Development Engineer and AI Engineer. I have hands-on backend and full-stack development experience in Python/Django, a first open-source contribution to LlamaIndex, and applied AI/CV work — including local LLM integration and real-time computer vision.
 
-My flagship project is a full-stack modular ERP system spanning 14 business domains, and I've competed in 10+ hackathons, reaching the finals in three.
+My flagship project is a full-stack modular ERP system spanning 14 business domains, and I've competed in 10+ hackathons, reaching the finals in five.
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ My flagship project is a full-stack modular ERP system spanning 14 business doma
 **Quick facts**
 - B.Tech IT · CGPA 9.05/10.0
 - 5x Hackathon Finalist
-- Numerous DSA problems solved
+- Open-source contributor (LlamaIndex)
 - Shipped 3 full-stack projects
 
 </td>
@@ -62,7 +62,7 @@ My flagship project is a full-stack modular ERP system spanning 14 business doma
 |---|---|
 | Computer Vision | Real-time hand tracking & gesture recognition with MediaPipe and OpenCV — *Air Canva* |
 | Local LLM Integration | Ollama-powered in-app voice assistant — *Mini ERP System* |
-| Data Structures & Algorithms | Arrays, linked lists, trees, graphs, DP, sorting — practiced on LeetCode & HackerRank |
+| Data Structures & Algorithms | Arrays, linked lists, trees, graphs, DP, sorting — practicing in Java on LeetCode |
 | Backend & APIs | CRUD operations, Django models, dynamic routing, authentication |
 
 <br/>
@@ -128,9 +128,20 @@ My flagship project is a full-stack modular ERP system spanning 14 business doma
 
 <br/>
 
+## Open Source
+
+**LlamaIndex** · [run-llama/llama_index](https://github.com/run-llama/llama_index)
+<br/>
+<sub>Oct 2026</sub>
+
+- Found and reported a crash when `SimpleDirectoryReader` loads files through an fsspec `DirFileSystem` ([Issue #23663](https://github.com/run-llama/llama_index/issues/23663))
+- Fixed it by passing string paths to `fs.open()` and added three regression tests ([PR #23664](https://github.com/run-llama/llama_index/pull/23664), under review)
+
+<br/>
+
 ## Achievements & Hackathons
 
-Competed in 10+ hackathons, reaching the finals at three national-level events, and served as Student Hackathon Coordinator for B.Tech IT at Sri Krishna College of Engineering and Technology.
+Competed in 10+ hackathons, reaching the finals at five, and served as Student Hackathon Coordinator for B.Tech IT at Sri Krishna College of Engineering and Technology.
 
 <div align="center">
 
@@ -140,7 +151,7 @@ Competed in 10+ hackathons, reaching the finals at three national-level events, 
 | Samhita Hackathon | IT Dept, Madras Institute of Technology | Finalist |
 | Hydro Hackathon | Dept. of Ocean Engineering, IIT Madras | Finalist |
 | Sparkathon | EEE Department, CIT | Finalist |
-| CSI ORIGINS| Somputer Society Of India, VIT Chennai | Finalist|
+| CSI Origins | Computer Society of India, VIT Chennai | Finalist |
 | UIDAI Data Hackathon | UIDAI | Participant |
 | Road Safety Hackathon | IIT Madras | Participant |
 | Socialis Impulsum *(non-hackathon event)* | IIT Madras | Participant |
