@@ -185,14 +185,6 @@ Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGP
 
 <br/>
 
-## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muthukkumaranb&hide_border=true&bg_color=0D1117&color=58A6FF&line=06B6D4&point=F0F6FC&area_color=161B22" width="100%"/>
-</div>
-
-<br/>
-
 ## Current Focus
 
 <table width="100%">
