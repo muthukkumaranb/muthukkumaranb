@@ -1,231 +1,110 @@
 <div align="center">
 
-<img src="./hero-banner.png" width="100%" alt="Muthukkumaran B — Software Development Engineer, Backend Developer, Aspiring AI Engineer"/>
+<img src="./hero-banner.png" width="100%" alt="Muthukkumaran B, backend and ML engineer. I build ML systems you can verify, and the backends that run them."/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=650&lines=Building+full-stack+%26+AI-integrated+apps;5x+Hackathon+Finalist;Open+to+SDE+%2F+Backend+%2F+AI+roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=4FE08A&center=true&vCenter=true&width=700&lines=Backend+%2B+ML+engineer;Merged+fix+in+deepset+Haystack;SIH+2026+team+lead+%C2%B7+5x+hackathon+finalist;Open+to+backend+%2F+ML+internships" alt="Backend + ML engineer · Merged fix in deepset Haystack · SIH 2026 team lead · 5x hackathon finalist"/>
 
-<br/>
-
-[Portfolio](https://muthukkumaranb.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/muthukkumaranb) · [Gmail](mailto:mailtomuthukkumaranb@gmail.com) · [GitHub](https://github.com/muthukkumaranb)
+**[Portfolio](https://muthukkumaranb.is-a.dev)** · [Résumé](https://muthukkumaranb.is-a.dev/Muthukkumaran_B_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/muthukkumaranb/) · [Email](mailto:mailtomuthukkumaranb@gmail.com)
 
 </div>
 
-<br/>
+```console
+$ whoami
+Muthukkumaran B · Second Year B.Tech IT, SKCET Coimbatore · CGPA 9.05
+I build ML systems you can verify, and the backends that run them:
+baselines, held-out tests and reproducible numbers behind every claim.
 
-## About Me
-
-I'm a second-year Information Technology student at Sri Krishna College of Engineering and Technology, building toward a career as a Software Development Engineer and AI Engineer. I have hands-on backend and full-stack development experience in Python/Django, a first open-source contribution to LlamaIndex, and applied AI/CV work — including local LLM integration and real-time computer vision.
-
-My flagship project is a full-stack modular ERP system spanning 14 business domains, and I've competed in 10+ hackathons, reaching the finals in five.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Currently open to**
-- Software Development Engineer (SDE) roles
-- Backend Developer roles
-- Full-Stack Developer roles
-- AI Engineering roles *(aspiring)*
-
-</td>
-<td width="50%" valign="top">
-
-**Quick facts**
-- B.Tech IT · CGPA 9.05/10.0
-- 5x Hackathon Finalist
-- Open-source contributor (LlamaIndex)
-- Shipped 3 full-stack projects
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Tech Stack
-
-| Category | Stack |
-|---|---|
-| Languages | Java, C++, C, Python |
-| Frontend | HTML, CSS, JavaScript, Tailwind CSS |
-| Backend | Django, SQLite, Python |
-| Tools | Git, GitHub, VS Code |
-
-<br/>
-
-## Applied AI & Computer Vision
-
-*Hands-on integration of AI/CV tooling in shipped projects — actively building toward deeper ML/AI engineering skills.*
-
-| | |
-|---|---|
-| Computer Vision | Real-time hand tracking & gesture recognition with MediaPipe and OpenCV — *Air Canva* |
-| Local LLM Integration | Ollama-powered in-app voice assistant — *Mini ERP System* |
-| Data Structures & Algorithms | Arrays, linked lists, trees, graphs, DP, sorting — practicing in Java on LeetCode |
-| Backend & APIs | CRUD operations, Django models, dynamic routing, authentication |
-
-<br/>
-
-## Featured Projects
-
-<details open>
-<summary><b>Mini ERP System</b> — <i>Django · HTMX · Alpine.js · Tailwind CSS · SQLite · Celery · Ollama</i></summary>
-<br/>
-
-> A full-stack, modular ERP application spanning 14 business domains — built end-to-end with Git branching strategies and collaborative commit workflows. *June 2026*
-
-| | |
-|---|---|
-| **Scope** | Sales, purchase, inventory, manufacturing, procurement, delivery, foreign trade, blockchain-based supply chain tracking |
-| **Interface** | Reactive, AJAX-driven UI via HTMX + Alpine.js — no heavy JS framework |
-| **AI Feature** | Local LLM (Ollama) powering an in-app voice assistant |
-| **Engineering** | Audit logging, real-time dashboards, Celery-based background tasks |
-| **Repo** | [github.com/muthukkumaranb/minierp](https://github.com/muthukkumaranb/minierp) |
-
-</details>
-
-<details>
-<summary><b>Platter to Purpose</b> — <i>Python · Django · HTML5 · CSS3 · JavaScript</i></summary>
-<br/>
-
-> A full-stack community platform connecting users to social resources, support services, and volunteer opportunities. *February 2026*
-
-| | |
-|---|---|
-| **Backend** | User authentication, database models, dynamic routing, CRUD operations |
-| **Frontend** | Responsive, mobile-first, cross-browser compatible, accessibility best practices |
-| **Repo** | [github.com/muthukkumaranb/platter_to_purpose](https://github.com/muthukkumaranb/platter_to_purpose) |
-
-</details>
-
-<details>
-<summary><b>Air Canva</b> — <i>Python · MediaPipe · OpenCV · NumPy</i></summary>
-<br/>
-
-> A gesture-controlled virtual drawing app that turns webcam-tracked hand movement into a digital canvas. *December 2025*
-
-| | |
-|---|---|
-| **Core Feature** | Gesture-controlled drawing from real-time hand movements |
-| **Tracking** | Real-time hand tracking + finger detection for drawing, erasing, colour selection |
-| **Processing** | OpenCV for video/frame processing, NumPy for pixel manipulation |
-| **Repo** | [github.com/muthukkumaranb/aircanva](https://github.com/muthukkumaranb/aircanva) |
-
-</details>
-
-<br/>
-
-## Experience
-
-**Technical Trainer Intern** · CSC Computer Education, Erode
-<br/>
-<sub>Apr 2026 — May 2026</sub>
-
-- Trained 50+ students in Python, C, and C++ through structured technical sessions and hands-on lab exercises
-- Designed practice problem sets and doubt-clearing sessions that strengthened students' problem-solving fundamentals
-- Received a certificate of excellence for communication and technical delivery
-
-<br/>
+$ status
+● Android Development Intern @ Pensive (Nov 2026 –)
+● open to backend / ML internships: remote part-time now, full-time Summer 2027
+```
 
 ## Open Source
 
-**LlamaIndex** · [run-llama/llama_index](https://github.com/run-llama/llama_index)
-<br/>
-<sub>Oct 2026</sub>
-
-- Found and reported a crash when `SimpleDirectoryReader` loads files through an fsspec `DirFileSystem` ([Issue #23663](https://github.com/run-llama/llama_index/issues/23663))
-- Fixed it by passing string paths to `fs.open()` and added three regression tests ([PR #23664](https://github.com/run-llama/llama_index/pull/23664), under review)
-
-<br/>
-
-## Achievements & Hackathons
-
-Competed in 10+ hackathons, reaching the finals at five, and served as Student Hackathon Coordinator for B.Tech IT at Sri Krishna College of Engineering and Technology.
-
-<div align="center">
-
-| Hackathons/Competitions | Organizer | Result |
+| Project | What I did | Status |
 |---|---|---|
-| Odoo x KAHE Coimbatore Hackathon | Odoo & Karpagam Institutions | Finalist |
-| Samhita Hackathon | IT Dept, Madras Institute of Technology | Finalist |
-| Hydro Hackathon | Dept. of Ocean Engineering, IIT Madras | Finalist |
-| Sparkathon | EEE Department, CIT | Finalist |
-| CSI Origins | Computer Society of India, VIT Chennai | Finalist |
-| UIDAI Data Hackathon | UIDAI | Participant |
-| Road Safety Hackathon | IIT Madras | Participant |
-| Socialis Impulsum *(non-hackathon event)* | IIT Madras | Participant |
-| Bharatiya Antariksh Hackathon (BAH) | ISRO, powered by Hack2skill | Participant |
-| Samsung Solve for Tomorrow | Samsung India | Participant |
-| Tally CodeBrewers | Tally Solutions | Participant |
-| Snapdragon Multiverse Hackathon | Qualcomm India | Participant |
-| Flipkart GRiD 8.0 | Flipkart | Participant |
+| **deepset Haystack** · [haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations) | Lara translator silently ignored `reasoning=False` because of an `x or default` check. Fixed it to `x if x is not None else default` and added a mocked regression test. [Issue #4168](https://github.com/deepset-ai/haystack-core-integrations/issues/4168) · [PR #4169](https://github.com/deepset-ai/haystack-core-integrations/pull/4169) · [write-up](https://muthukkumaranb.is-a.dev/notes-x-or-default.html) | ✅ Merged |
+| **LlamaIndex** · [llama_index](https://github.com/run-llama/llama_index) | `SimpleDirectoryReader` crashed when loading through an fsspec `DirFileSystem`. Passed string paths to `fs.open()` and added three regression tests. [Issue #23663](https://github.com/run-llama/llama_index/issues/23663) · [PR #23664](https://github.com/run-llama/llama_index/pull/23664) | 🔍 In review |
 
-</div>
+## Featured projects
 
+All are team projects. Each one says the team size and what I personally built.
+
+### 🛩️ [SHIKRA](https://github.com/muthukkumaranb/shikra): predicting engine removals for a 54-aircraft fleet
+<sub>Smart India Hackathon 2026 · SIH26249 (Ministry of Defence) · team of 6 · **team lead**</sub>
+
+- **ML:** LightGBM quantile models with conformal calibration. **11.64 RMSE** on NASA C-MAPSS FD001 (vs 18.45 for a published CNN baseline), and **81% coverage** of 80% intervals on held-out engines.
+- **Systems:** **72.7 → 0** unscheduled removals per year in fleet simulation, OR-Tools CP-SAT scheduling, HMAC audit log.
+- **My part:** the remaining-life model, data ingestion and audit logs.
+- `Python` `LightGBM` `conformal prediction` `OR-Tools` `Streamlit` · [Case study](https://muthukkumaranb.is-a.dev/shikra.html) · [Live demo](https://muthukkumaranb.is-a.dev/#demos)
+
+### 🐈‍⬛ [ShadowCat](https://github.com/muthukkumaranb/ShadowCat): early attack warning with a log nobody can quietly edit
+<sub>Smart India Hackathon 2026 · SIH26153 (NTRO) · team of 6 · **team lead**</sub>
+
+- **ML:** **0.907** five-minute onset F1 under 37-fold leave-one-episode-out validation, and **0.990** detection F1.
+- **Systems:** an Ed25519-signed SHA-256 hash chain with a Merkle root, so any forecast has an O(log n) inclusion proof and edits are detectable offline.
+- **My part:** ingestion and the cryptographic audit chain.
+- `Python` `PyTorch` `scikit-learn` `Ed25519` `Merkle trees` · [Case study](https://muthukkumaranb.is-a.dev/shadowcat.html) · [Tamper with the log](https://muthukkumaranb.is-a.dev/#demos)
+
+### 🛡️ [SENTINEL](https://github.com/muthukkumaranb/vitcsiorigins): catching insider threats
+<sub>CSI Origins 2026, VIT Chennai · **finalist** · team of 4</sub>
+
+- Flags valid users doing valid actions in invalid patterns by fusing three engines: behaviour (45%), sequence (30%) and Random Forest (25%), scaled by operational context.
+- **My part:** most of the React + TypeScript investigation console, the Flask API and event processing, the ML dataset builder and model registry, and the API and architecture docs.
+- `Python` `Flask` `scikit-learn` `React` `TypeScript`
+
+### 🧾 [Mini ERP](https://github.com/muthukkumaranb/minierp): 14 business modules in one Django codebase
+<sub>Odoo x KAHE Hackathon · **finalist** · team of 2</sub>
+
+- **My part:** inventory, purchasing and procurement with Celery background tasks, the audit log via Django signals, and the local-LLM (Ollama) voice assistant API.
+- `Django` `HTMX` `Alpine.js` `Celery` `SQLite` `Ollama` · [Case study](https://muthukkumaranb.is-a.dev/minierp.html)
+
+<details>
+<summary><b>More projects</b></summary>
 <br/>
 
-## Education
+| Project | What it is | Team |
+|---|---|---|
+| [HoloTwin](https://github.com/muthukkumaranb/HoloTwin-AeroThon) | Physics-informed digital twin of a turbojet (Aerothon 2026, HAL x IIT Indore). I built the PINN surrogate in PyTorch with physics constraints in the loss, exported it to ONNX and compared it against a Random Forest. | 2 |
+| [ASHA health voice agent](https://github.com/muthukkumaranb/murf-voice-ai) | Multilingual voice assistant for community health workers (Murf AI "10 Days of Voice Agents for Bharat"): consent-based memory, health centre lookup, outbound calls over LiveKit SIP. | — |
+| [Air Canva](https://github.com/muthukkumaranb/aircanva) | Draw in the air: MediaPipe hand tracking drives a canvas, with gestures to draw, erase and pick colours. | solo |
 
-**Bachelor of Technology — Information Technology**
-<br/>
-Sri Krishna College of Engineering and Technology, India · 2025 – 2029 · SGPA 9.05/10.0
+</details>
 
-<sub>Relevant coursework: Data Structures and Algorithms · OOP with C++ · Discrete Mathematics · Computer Organization and Architecture · Operating Systems</sub>
+## Experience
 
-<br/>
+**Android Development Intern** · Pensive · *Nov 2026 – present* · remote
 
+**Team lead, Smart India Hackathon 2026** · team of 6 · *Aug – Oct 2026*
+- Led one team through two problem statements in parallel (SHIKRA and ShadowCat), split the work into data, ML, backend and front-end tracks, and reviewed every merge.
+- Both projects were shortlisted at the college level and submitted for the national level.
 
-## Current Focus
+**Student Hackathon Coordinator** · B.Tech IT, SKCET · *current*
+- Coordinate hackathon participation for the department, including the [Tech-Escape](https://www.hackerrank.com/contests/tech-escape/challenges) coding contest.
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
+**Technical Trainer Intern** · CSC Computer Education, Erode · *Apr – May 2026*
+- Taught Python, C and C++ to 50+ students. Certificate of excellence for communication and technical delivery.
 
-**Learning**
-- Advanced DSA
-- Backend architecture & REST API design
-- Machine Learning fundamentals
+## Hackathons
 
-</td>
-<td width="25%" valign="top">
+**5x finalist:** Odoo x KAHE (Karpagam) · Samhita (MIT Chennai) · Hydro Hackathon (IIT Madras) · Sparkathon (CIT) · CSI Origins (VIT Chennai)
 
-**Building**
-- Full-stack AI-integrated apps
-- Computer vision side projects
+<sub>Also competed in: Smart India Hackathon 2026 (team lead) · Aerothon 2026 (HAL x IIT Indore) · Murf AI 10 Days of Voice Agents · UIDAI Data Hackathon · Road Safety Hackathon (IIT Madras) · Bharatiya Antariksh Hackathon (ISRO) · Samsung Solve for Tomorrow · Tally CodeBrewers · Snapdragon Multiverse · Flipkart GRiD 8.0</sub>
 
-</td>
-<td width="25%" valign="top">
+## What I work with
 
-**Exploring**
-- Local LLM integration
-- Modern reactive frontend patterns
-
-</td>
-<td width="25%" valign="top">
-
-**Open to**
-- SDE / Backend / Full-Stack
-- AI Engineering *(aspiring)*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Let's Connect
+| | |
+|---|---|
+| **Backend** | Python, Django, REST APIs, Flask, Celery, SQLite, HTMX, Java, C++ |
+| **ML** | LightGBM, PyTorch, scikit-learn, conformal prediction, pandas, OpenCV, MediaPipe, Ollama |
+| **Systems** | SHA-256 / HMAC / Ed25519 audit logs, Merkle trees, OR-Tools CP-SAT |
+| **Practice** | pytest and mocking, Ruff, uv, Hatch, Git, reproducible pipelines, open-source code review |
+| **Learning now** | Kotlin, Jetpack Compose, Coroutines |
 
 <div align="center">
 
-[Portfolio](https://muthukkumaranb.github.io/portfolio/) · [Gmail](mailto:mailtomuthukkumaranb@gmail.com) · [LinkedIn](https://linkedin.com/in/muthukkumaranb) · [GitHub](https://github.com/muthukkumaranb)
-
-</div>
-
 <br/>
 
-<div align="center">
-
-*"Code is the closest thing we have to magic — write it with intention."*
+<sub>**VENI · VIDI · VICI** · Hiring for a backend or ML intern? [Email me](mailto:mailtomuthukkumaranb@gmail.com). I reply within a day.</sub>
 
 </div>
