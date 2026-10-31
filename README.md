@@ -69,6 +69,9 @@ All are team projects; each entry states the team size and my contribution.
 
 ## Experience
 
+**Android Development Intern** · Pensive · Remote · *Nov 2026 – Present*
+- Building native Android features with Kotlin, Jetpack Compose and Coroutines alongside the iOS and backend teams.
+
 **Team Lead, Smart India Hackathon 2026** · Team of 6 · *Aug 2026 – Oct 2026*
 - Led one team through two problem statements in parallel (SHIKRA and ShadowCat), dividing work into data, ML, backend and front-end tracks and reviewing every merge.
 - Both projects were shortlisted at the college level and submitted for the national level.
@@ -90,6 +93,7 @@ All are team projects; each entry states the team size and my contribution.
 | Area | Tools |
 |---|---|
 | **Backend** | Python, Django, Flask, REST APIs, Celery, SQLite, HTMX, Java, C++ |
+| **Mobile** | Kotlin, Jetpack Compose, Coroutines |
 | **Machine Learning** | LightGBM, PyTorch, scikit-learn, conformal prediction, pandas, OpenCV, MediaPipe, Ollama |
 | **Systems** | SHA-256, HMAC and Ed25519 audit logs, Merkle trees, OR-Tools CP-SAT |
 | **Engineering Practice** | pytest, Ruff, uv, Hatch, Git, reproducible pipelines, open-source code review |
